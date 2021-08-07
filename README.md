@@ -13,5 +13,9 @@ This project uses Python (Pandas, Numpy libraries) to receive descriptive statis
 bikeshare.py, csv data files of chicago, new_york_city, washington (ignored in .gitignore)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+- https://knowledge.udacity.com/
+- Forked Github files from Udacity/pdsnd_github (https://github.com/udacity/pdsnd_github)
+- https://stackoverflow.com/
+- https://www.geeksforgeeks.org/
 

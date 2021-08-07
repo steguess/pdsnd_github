@@ -10,7 +10,7 @@ Bikeshare Python Project
 This project uses Python (Pandas, Numpy libraries) to receive descriptive statistics of bike share riders in New York, Chicago and Washington. It takes the selection criteria of the user in order to calculate statistics of riders in these cities as outputs.
 
 ### Files used
-Include the files used
+bikeshare.py, csv data files of chicago, new_york_city, washington (ignored in .gitignore)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

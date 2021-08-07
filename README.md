@@ -7,7 +7,7 @@
 Bikeshare Python Project
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python (Pandas, Numpy libraries) to receive descriptive statistics of bike share riders in New York, Chicago and Washington. It takes the selection criteria of the user in order to calculate statistics of riders in these cities as outputs.
 
 ### Files used
 Include the files used
